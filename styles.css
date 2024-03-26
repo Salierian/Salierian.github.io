@@ -1,6 +1,7 @@
 .initi
 	{
-
+	
+	font-family: "Lucida console", "Helvetica", "monospace";
 	color: #48d900;
 	margin-left: auto;
 	margin-right:auto;
@@ -22,6 +23,7 @@ ul
 
 	padding-left: 20px;
 	padding-right: 5px;
+	list-style: none;
 
 	}
 
@@ -33,7 +35,29 @@ body
 	}
 
 .landing{
+	
+	padding-left: 25px;
 
-	padding-right: 10px;
+	}
+
+a
+	{
+
+	color: #48d900;
+
+	}
+
+a:hover
+	{
+
+	color: black;
+	background-color: #48d900;
+
+	}
+
+.informa
+	{
+
+	padding-left: 25px;
 
 	}
