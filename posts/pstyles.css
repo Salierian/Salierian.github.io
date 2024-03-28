@@ -1,8 +1,31 @@
 body
 	{
 
-	background-color: background-color: green;
+	background-color: #0d0f0c;
 
 	}
 
+a, p
+	{
 
+	color: #48d900;
+	font-family: "Lucida console", "Helvetica", "monospace";
+
+	}
+
+a:hover
+	{
+
+	color: black;
+	background-color: #48d900;
+
+	}
+
+.centerimage
+	{
+
+	width: 500px;
+	padding-left: 270px;
+	border-radius: 15px;
+
+	}
