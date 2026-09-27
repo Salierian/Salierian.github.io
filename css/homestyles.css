@@ -34,3 +34,22 @@ border: 1px solid;
 border-color: #4e521a;
 
 }
+
+a {
+
+    color: #48d900;
+
+}
+
+a:hover {
+
+background-color: #48d900;
+color: #0d0f0c;
+
+}
+
+.posts {
+
+    text-indent: 15px;
+
+}
