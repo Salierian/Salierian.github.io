@@ -1,0 +1,58 @@
+body{
+
+background-color: #0d0f0c;
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 2%;
+flex-wrap: wrap;
+
+}
+
+.landing {
+
+justify-self: center;
+display:grid;
+font-family: "Lucida console", "Helvetica", "monospace";
+color: #48d900;
+gap: 1em;
+grid-template-columns: 200px 200px 200px 200px;
+grid-template-rows: 200px 100px 150px 100px;
+grid-template-areas:
+"box-1 box-1 box-1 box-2"
+"box-1 box-1 box-1 box-2"
+"box-1 box-1 box-1 box-3"
+"box-4 box-4 box-4 box-3"
+
+}
+
+.item {
+padding: 2%;
+border-radius: 8px;
+font-size: 15px;
+border: 1px solid;
+border-color: #4e521a;
+
+}
+
+a {
+
+    color: #48d900;
+
+}
+
+a:hover {
+
+background-color: #48d900;
+color: #0d0f0c;
+
+}
+
+.posts {
+
+    display: flex;
+    text-indent: 15px;
+    flex-direction: column;
+    max-width: 100%;
+
+}
