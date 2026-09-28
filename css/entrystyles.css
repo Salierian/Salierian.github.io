@@ -49,3 +49,21 @@ a:hover {
     background-color: #48d900;
 
 }
+
+.category {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.picture {
+
+    max-width: 500px;
+    max-height: 500px;
+    align-items: center;
+    border: 1px solid;
+    border-color: #4e521a;
+    border-radius: 8px;
+
+}
