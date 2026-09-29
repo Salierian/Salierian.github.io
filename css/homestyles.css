@@ -53,5 +53,6 @@ color: #0d0f0c;
     display: flex;
     text-indent: 15px;
     flex-direction: column;
+    max-width: 100%;
 
 }
