@@ -67,3 +67,13 @@ a:hover {
     border-radius: 8px;
 
 }
+
+.snippet {
+
+    max-width: 500px;
+    max-height: 500px;
+    align-items: center;
+    border: 1px solid;
+    border-color: #4e521a;
+
+}
