@@ -1,1 +1,1 @@
-IOU double update coming tomorrow
+Took care of home server today. Updates on that tomorrow
